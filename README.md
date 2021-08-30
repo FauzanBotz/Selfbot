@@ -34,10 +34,10 @@
 * [`Nino`] 
 * [`Ramlan`]
 * [`Aqul`]
-* [`gng`]
+* [`FauzanBotz`]
 * [`ikyads`]  
 * [`HafidzAbbdilah`]
-* [`FauzanBotz`]
+* [`GnG`]
 * [`Dan Para Creator Bot Lain Nya`]                                                             
 
 
