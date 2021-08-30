@@ -24,7 +24,7 @@
 
 ## Connect With Me
 <p align="center">
- <a href="https://instagram.com/fauzanbotz4"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/6289516004292"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://instagram.com/akhmad_fauzan2"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/6289516004292"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
  <a href="https://youtube.com/channel/UCZnor19gyF010anLraDWTTA"><img src="https://img.shields.io/badge/YouTube-GNG BOTZ?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCZnor19gyF010anLraDWTTA" />
  <a name=Fauzan-Id&label=VIEWS&style=flat-square&color=red"/>
 </p>
