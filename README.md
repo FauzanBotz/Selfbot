@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/11afe8bcf630870e9ccb2.jpg" width="54%" height="50%" alt="Owner FauzanBotz"/>
+    <img src="https://telegra.ph/file/f029d7dbbf4fd8b6b21da.jpg" width="54%" height="50%" alt="Owner FauzanBotz"/>
     <br>
     <a href="https://github.com/FauzanBotz"><img title="Owner" src="https://img.shields.io/badge/Creator-Fauzan-black?style=for-the-badge&logo=windows"></a>
 </p>
